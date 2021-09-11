@@ -1,0 +1,12 @@
+createCanvas( width , height)
+
+sketch.js ---> workspace 
+
+0--> black
+255--> white 
+
+p5.play.js 
+
+vsc is a local environment. It works only in your local sysytem.
+
+Host the game online so that other can view your code. For this use GitHub. 
